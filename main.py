@@ -57,6 +57,6 @@ def start():
             fw.write(key + " : " + str(Tag_Rank[key]) + "\n")
         except TypeError:
             continue
-    print('\nResult saved to file Tags_frequency3.txt')
+    print('\nResult saved to file Tags_frequency.txt')
 
 start()

@@ -6,6 +6,9 @@ requests,bs4,operator,os,sys
 
 #How to run:
   1:Download the repository to your machine
+  
   2:Change the directory to where you downloaded the crawler
+  
   3:Type the following command in a terminal to run the script:
+  
     python3 main.py
